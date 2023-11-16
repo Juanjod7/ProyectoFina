@@ -1,0 +1,77 @@
+
+body {
+    background: url(Imagen-de-fondo-html.jpg) no-repeat fixed center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border: 40px blueviolet;
+    text-align: center;
+}
+
+.centrar-listas {
+    width: auto;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: #ffffff;
+}
+.bio{
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(85, 85, 219);
+    color: #f5f5f5;
+    text-shadow: 1px, 1px, black;
+    width: 50px, 100px, left; 
+}
+
+.navenlace {
+display: inline-block;
+background: whitesmoke;
+color: black;
+padding: 10px 30px;
+text-decoration: none;
+}
+.navenlace:hover{
+    background: gray;
+}
+nav{
+    background:white;
+}
+
+
+
+
+
+.text {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 55px;
+    text-shadow: 5px 5px 0px whitesmoke;
+    text-align: center;
+}
+
+.vid {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    text-shadow: 5px 5px 0px whitesmoke;
+    text-align: center;
+}
+
+.caja {
+    text-align: justify;
+    font-family: Georgia;
+    font-size: 35px;
+    font-weight: 200;
+    color: #ffffff;
+    background: blueviolet;
+    width: 100px, 200px;
+    margin:auto;
+}
+
+.bot{
+    color:black;
+    text-decoration: none;
+    background: white;
+
+}
+
