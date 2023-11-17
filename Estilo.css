@@ -1,6 +1,6 @@
 
 body {
-    background: url(Imagen-de-fondo-html.jpg) no-repeat fixed center;
+    background: url(Imagenes/Imagen-de-fondo-html.jpg) no-repeat fixed center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -73,5 +73,9 @@ nav{
     text-decoration: none;
     background: white;
 
+}
+.fot{
+font-size: small;
+color: rgb(87, 82, 82);
 }
 
